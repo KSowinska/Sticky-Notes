@@ -40,3 +40,8 @@ body {
 .sticker:hover {
   z-index: 1;
 }
+
+.addNoteBtn {
+  border-radius: 7px;
+
+}
